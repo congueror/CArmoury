@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "a a",
+    "   "
+  ],
+  "key": {
+    "a": {
+      "item": "clib:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "carmoury:tin_helmet"
+  }
+}

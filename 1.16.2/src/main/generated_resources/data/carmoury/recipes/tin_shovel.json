@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "s",
+    "s"
+  ],
+  "key": {
+    "a": {
+      "item": "clib:tin_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "carmoury:tin_shovel"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "clib:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "carmoury:aluminum_chestplate"
+  }
+}

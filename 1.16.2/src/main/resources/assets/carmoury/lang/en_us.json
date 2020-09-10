@@ -1,0 +1,47 @@
+{
+	"item.carmoury.tin_sword": "Tin Sword",
+	"item.carmoury.tin_pickaxe": "Tin Pickaxe",
+	"item.carmoury.tin_axe": "Tin Axe",
+	"item.carmoury.tin_shovel": "Tin Shovel",
+	"item.carmoury.tin_hoe": "Tin Hoe",
+	
+	"item.carmoury.tin_helmet": "Tin Helmet",
+	"item.carmoury.tin_chestplate": "Tin Chestplate",
+	"item.carmoury.tin_leggings": "Tin Leggings",
+	"item.carmoury.tin_boots": "Tin Boots",
+	
+	"item.carmoury.aluminum_sword": "Aluminum Sword",
+	"item.carmoury.aluminum_pickaxe": "Aluminum Pickaxe",
+	"item.carmoury.aluminum_axe": "Aluminum Axe",
+	"item.carmoury.aluminum_shovel": "Aluminum Shovel",
+	"item.carmoury.aluminum_hoe": "Aluminum Hoe",
+	
+	"item.carmoury.aluminum_helmet": "Aluminum Helmet",
+	"item.carmoury.aluminum_chestplate": "Aluminum Chestplate",
+	"item.carmoury.aluminum_leggings": "Aluminum Leggings",
+	"item.carmoury.aluminum_boots": "Aluminum Boots",
+	
+	"item.carmoury.steel_sword": "Steel Sword",
+	"item.carmoury.steel_pickaxe": "Steel Pickaxe",
+	"item.carmoury.steel_axe": "Steel Axe",
+	"item.carmoury.steel_shovel": "Steel Shovel",
+	"item.carmoury.steel_hoe": "Steel Hoe",
+	
+	"item.carmoury.steel_helmet": "Steel Helmet",
+	"item.carmoury.steel_chestplate": "Steel Chestplate",
+	"item.carmoury.steel_leggings": "Steel Leggings",
+	"item.carmoury.steel_boots": "Steel Boots",
+	
+	"item.carmoury.copper_sword": "Copper Sword",
+	"item.carmoury.copper_pickaxe": "Copper Pickaxe",
+	"item.carmoury.copper_axe": "Copper Axe",
+	"item.carmoury.copper_shovel": "Copper Shovel",
+	"item.carmoury.copper_hoe": "Copper Hoe",
+	
+	"item.carmoury.copper_helmet": "Copper Helmet",
+	"item.carmoury.copper_chestplate": "Copper Chestplate",
+	"item.carmoury.copper_leggings": "Copper Leggings",
+	"item.carmoury.copper_boots": "Copper Boots",
+
+	"itemGroup.carmourytab": "C's Armoury"
+}

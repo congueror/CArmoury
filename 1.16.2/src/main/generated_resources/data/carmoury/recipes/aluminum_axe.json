@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aa",
+    "as",
+    " s"
+  ],
+  "key": {
+    "a": {
+      "item": "clib:aluminum_ingot"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "carmoury:aluminum_axe"
+  }
+}
