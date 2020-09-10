@@ -40,11 +40,11 @@ public class ItemModelDataGen extends ItemModelProvider
 		singleTexture(ItemInit.TIN_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
                 "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/tin_chestplate"));
 		
-		singleTexture(ItemInit.TIN_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/tin_chestplate"));
+		singleTexture(ItemInit.TIN_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/tin_leggings"));
 		
-		singleTexture(ItemInit.TIN_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/tin_chestplate"));
+		singleTexture(ItemInit.TIN_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/tin_boots"));
 		
 		//Aluminum
 		singleTexture(ItemInit.ALUMINUM_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
@@ -68,11 +68,11 @@ public class ItemModelDataGen extends ItemModelProvider
 		singleTexture(ItemInit.ALUMINUM_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
                 "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/aluminum_chestplate"));
 		
-		singleTexture(ItemInit.ALUMINUM_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/aluminum_chestplate"));
+		singleTexture(ItemInit.ALUMINUM_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/aluminum_leggings"));
 		
-		singleTexture(ItemInit.ALUMINUM_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/aluminum_chestplate"));
+		singleTexture(ItemInit.ALUMINUM_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/aluminum_boots"));
 		
 		//Steel
 		singleTexture(ItemInit.STEEL_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
@@ -96,11 +96,11 @@ public class ItemModelDataGen extends ItemModelProvider
 		singleTexture(ItemInit.STEEL_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
                 "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/steel_chestplate"));
 		
-		singleTexture(ItemInit.STEEL_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/steel_chestplate"));
+		singleTexture(ItemInit.STEEL_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/steel_leggings"));
 		
-		singleTexture(ItemInit.STEEL_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/steel_chestplate"));
+		singleTexture(ItemInit.STEEL_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/steel_boots"));
 		
 		//Copper
 		singleTexture(ItemInit.COPPER_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
@@ -124,10 +124,10 @@ public class ItemModelDataGen extends ItemModelProvider
 		singleTexture(ItemInit.COPPER_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
                 "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/copper_chestplate"));
 		
-		singleTexture(ItemInit.COPPER_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/copper_chestplate"));
+		singleTexture(ItemInit.COPPER_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/copper_leggings"));
 		
-		singleTexture(ItemInit.COPPER_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
-                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/copper_chestplate"));
+		singleTexture(ItemInit.COPPER_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/copper_boots"));
 	}
 }
