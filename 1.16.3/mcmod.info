@@ -1,0 +1,13 @@
+[{
+  "modid": "carmoury",
+  "name": "Conguerors Armoury",
+  "description": "Adds a bunch o' armour",
+  "version": "0.1",
+  "mcversion": "1.16.3",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/carmoury",
+  "updateUrl": "https://raw.githubusercontent.com/congueror/CLib/master/update.json",
+  "authorList": ["Congueror"],
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}] 

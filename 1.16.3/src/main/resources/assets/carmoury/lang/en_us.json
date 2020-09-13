@@ -1,0 +1,190 @@
+{
+	"item.carmoury.tin_sword": "Tin Sword",
+	"item.carmoury.tin_pickaxe": "Tin Pickaxe",
+	"item.carmoury.tin_axe": "Tin Axe",
+	"item.carmoury.tin_shovel": "Tin Shovel",
+	"item.carmoury.tin_hoe": "Tin Hoe",
+	
+	"item.carmoury.tin_helmet": "Tin Helmet",
+	"item.carmoury.tin_chestplate": "Tin Chestplate",
+	"item.carmoury.tin_leggings": "Tin Leggings",
+	"item.carmoury.tin_boots": "Tin Boots",
+	
+	"item.carmoury.aluminum_sword": "Aluminum Sword",
+	"item.carmoury.aluminum_pickaxe": "Aluminum Pickaxe",
+	"item.carmoury.aluminum_axe": "Aluminum Axe",
+	"item.carmoury.aluminum_shovel": "Aluminum Shovel",
+	"item.carmoury.aluminum_hoe": "Aluminum Hoe",
+	
+	"item.carmoury.aluminum_helmet": "Aluminum Helmet",
+	"item.carmoury.aluminum_chestplate": "Aluminum Chestplate",
+	"item.carmoury.aluminum_leggings": "Aluminum Leggings",
+	"item.carmoury.aluminum_boots": "Aluminum Boots",
+	
+	"item.carmoury.steel_sword": "Steel Sword",
+	"item.carmoury.steel_pickaxe": "Steel Pickaxe",
+	"item.carmoury.steel_axe": "Steel Axe",
+	"item.carmoury.steel_shovel": "Steel Shovel",
+	"item.carmoury.steel_hoe": "Steel Hoe",
+	
+	"item.carmoury.steel_helmet": "Steel Helmet",
+	"item.carmoury.steel_chestplate": "Steel Chestplate",
+	"item.carmoury.steel_leggings": "Steel Leggings",
+	"item.carmoury.steel_boots": "Steel Boots",
+	
+	"item.carmoury.copper_sword": "Copper Sword",
+	"item.carmoury.copper_pickaxe": "Copper Pickaxe",
+	"item.carmoury.copper_axe": "Copper Axe",
+	"item.carmoury.copper_shovel": "Copper Shovel",
+	"item.carmoury.copper_hoe": "Copper Hoe",
+	
+	"item.carmoury.copper_helmet": "Copper Helmet",
+	"item.carmoury.copper_chestplate": "Copper Chestplate",
+	"item.carmoury.copper_leggings": "Copper Leggings",
+	"item.carmoury.copper_boots": "Copper Boots",
+	
+	"item.carmoury.lead_sword": "Lead Sword",
+	"item.carmoury.lead_pickaxe": "Lead Pickaxe",
+	"item.carmoury.lead_axe": "Lead Axe",
+	"item.carmoury.lead_shovel": "Lead Shovel",
+	"item.carmoury.lead_hoe": "Lead Hoe",
+	
+	"item.carmoury.lead_helmet": "Lead Helmet",
+	"item.carmoury.lead_chestplate": "Lead Chestplate",
+	"item.carmoury.lead_leggings": "Lead Leggings",
+	"item.carmoury.lead_boots": "Lead Boots",
+	
+	"item.carmoury.ruby_sword": "Ruby Sword",
+	"item.carmoury.ruby_pickaxe": "Ruby Pickaxe",
+	"item.carmoury.ruby_axe": "Ruby Axe",
+	"item.carmoury.ruby_shovel": "Ruby Shovel",
+	"item.carmoury.ruby_hoe": "Ruby Hoe",
+	
+	"item.carmoury.ruby_helmet": "Ruby Helmet",
+	"item.carmoury.ruby_chestplate": "Ruby Chestplate",
+	"item.carmoury.ruby_leggings": "Ruby Leggings",
+	"item.carmoury.ruby_boots": "Ruby Boots",
+	
+	"item.carmoury.silver_sword": "Silver Sword",
+	"item.carmoury.silver_pickaxe": "Silver Pickaxe",
+	"item.carmoury.silver_axe": "Silver Axe",
+	"item.carmoury.silver_shovel": "Silver Shovel",
+	"item.carmoury.silver_hoe": "Silver Hoe",
+	
+	"item.carmoury.silver_helmet": "Silver Helmet",
+	"item.carmoury.silver_chestplate": "Silver Chestplate",
+	"item.carmoury.silver_leggings": "Silver Leggings",
+	"item.carmoury.silver_boots": "Silver Boots",
+	
+	"item.carmoury.nickel_sword": "Nickel Sword",
+	"item.carmoury.nickel_pickaxe": "Nickel Pickaxe",
+	"item.carmoury.nickel_axe": "Nickel Axe",
+	"item.carmoury.nickel_shovel": "Nickel Shovel",
+	"item.carmoury.nickel_hoe": "Nickel Hoe",
+	
+	"item.carmoury.nickel_helmet": "Nickel Helmet",
+	"item.carmoury.nickel_chestplate": "Nickel Chestplate",
+	"item.carmoury.nickel_leggings": "Nickel Leggings",
+	"item.carmoury.nickel_boots": "Nickel Boots",
+	
+	"item.carmoury.invar_sword": "Invar Sword",
+	"item.carmoury.invar_pickaxe": "Invar Pickaxe",
+	"item.carmoury.invar_axe": "Invar Axe",
+	"item.carmoury.invar_shovel": "Invar Shovel",
+	"item.carmoury.invar_hoe": "Invar Hoe",
+	
+	"item.carmoury.invar_helmet": "Invar Helmet",
+	"item.carmoury.invar_chestplate": "Invar Chestplate",
+	"item.carmoury.invar_leggings": "Invar Leggings",
+	"item.carmoury.invar_boots": "Invar Boots",
+	
+	"item.carmoury.electrum_sword": "Electrum Sword",
+	"item.carmoury.electrum_pickaxe": "Electrum Pickaxe",
+	"item.carmoury.electrum_axe": "Electrum Axe",
+	"item.carmoury.electrum_shovel": "Electrum Shovel",
+	"item.carmoury.electrum_hoe": "Electrum Hoe",
+	
+	"item.carmoury.electrum_helmet": "Electrum Helmet",
+	"item.carmoury.electrum_chestplate": "Electrum Chestplate",
+	"item.carmoury.electrum_leggings": "Electrum Leggings",
+	"item.carmoury.electrum_boots": "Electrum Boots",
+	
+	"item.carmoury.platinum_sword": "Platinum Sword",
+	"item.carmoury.platinum_pickaxe": "Platinum Pickaxe",
+	"item.carmoury.platinum_axe": "Platinum Axe",
+	"item.carmoury.platinum_shovel": "Platinum Shovel",
+	"item.carmoury.platinum_hoe": "Platinum Hoe",
+	
+	"item.carmoury.platinum_helmet": "Platinum Helmet",
+	"item.carmoury.platinum_chestplate": "Platinum Chestplate",
+	"item.carmoury.platinum_leggings": "Platinum Leggings",
+	"item.carmoury.platinum_boots": "Platinum Boots",
+	
+	"item.carmoury.enderium_sword": "Enderium Sword",
+	"item.carmoury.enderium_pickaxe": "Enderium Pickaxe",
+	"item.carmoury.enderium_axe": "Enderium Axe",
+	"item.carmoury.enderium_shovel": "Enderium Shovel",
+	"item.carmoury.enderium_hoe": "Enderium Hoe",
+	
+	"item.carmoury.enderium_helmet": "Enderium Helmet",
+	"item.carmoury.enderium_chestplate": "Enderium Chestplate",
+	"item.carmoury.enderium_leggings": "Enderium Leggings",
+	"item.carmoury.enderium_boots": "Enderium Boots",
+	
+	"item.carmoury.tungsten_sword": "Tungsten Sword",
+	"item.carmoury.tungsten_pickaxe": "Tungsten Pickaxe",
+	"item.carmoury.tungsten_axe": "Tungsten Axe",
+	"item.carmoury.tungsten_shovel": "Tungsten Shovel",
+	"item.carmoury.tungsten_hoe": "Tungsten Hoe",
+	
+	"item.carmoury.tungsten_helmet": "Tungsten Helmet",
+	"item.carmoury.tungsten_chestplate": "Tungsten Chestplate",
+	"item.carmoury.tungsten_leggings": "Tungsten Leggings",
+	"item.carmoury.tungsten_boots": "Tungsten Boots",
+	
+	"item.carmoury.bronze_sword": "Bronze Sword",
+	"item.carmoury.bronze_pickaxe": "Bronze Pickaxe",
+	"item.carmoury.bronze_axe": "Bronze Axe",
+	"item.carmoury.bronze_shovel": "Bronze Shovel",
+	"item.carmoury.bronze_hoe": "Bronze Hoe",
+	
+	"item.carmoury.bronze_helmet": "Bronze Helmet",
+	"item.carmoury.bronze_chestplate": "Bronze Chestplate",
+	"item.carmoury.bronze_leggings": "Bronze Leggings",
+	"item.carmoury.bronze_boots": "Bronze Boots",
+	
+	"item.carmoury.amethyst_sword": "Amethyst Sword",
+	"item.carmoury.amethyst_pickaxe": "Amethyst Pickaxe",
+	"item.carmoury.amethyst_axe": "Amethyst Axe",
+	"item.carmoury.amethyst_shovel": "Amethyst Shovel",
+	"item.carmoury.amethyst_hoe": "Amethyst Hoe",
+	
+	"item.carmoury.amethyst_helmet": "Amethyst Helmet",
+	"item.carmoury.amethyst_chestplate": "Amethyst Chestplate",
+	"item.carmoury.amethyst_leggings": "Amethyst Leggings",
+	"item.carmoury.amethyst_boots": "Amethyst Boots",
+	
+	"item.carmoury.sapphire_sword": "Sapphire Sword",
+	"item.carmoury.sapphire_pickaxe": "Sapphire Pickaxe",
+	"item.carmoury.sapphire_axe": "Sapphire Axe",
+	"item.carmoury.sapphire_shovel": "Sapphire Shovel",
+	"item.carmoury.sapphire_hoe": "Sapphire Hoe",
+	
+	"item.carmoury.sapphire_helmet": "Sapphire Helmet",
+	"item.carmoury.sapphire_chestplate": "Sapphire Chestplate",
+	"item.carmoury.sapphire_leggings": "Sapphire Leggings",
+	"item.carmoury.sapphire_boots": "Sapphire Boots",
+	
+	"item.carmoury.titanium_sword": "Titanium Sword",
+	"item.carmoury.titanium_pickaxe": "Titanium Pickaxe",
+	"item.carmoury.titanium_axe": "Titanium Axe",
+	"item.carmoury.titanium_shovel": "Titanium Shovel",
+	"item.carmoury.titanium_hoe": "Titanium Hoe",
+	
+	"item.carmoury.titanium_helmet": "Titanium Helmet",
+	"item.carmoury.titanium_chestplate": "Titanium Chestplate",
+	"item.carmoury.titanium_leggings": "Titanium Leggings",
+	"item.carmoury.titanium_boots": "Titanium Boots",
+
+	"itemGroup.carmourytab": "C's Armoury"
+}
