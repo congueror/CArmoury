@@ -90,6 +90,22 @@ public enum ModArmorMaterial implements IArmorMaterial
 	TITANIUM(CArmoury.MOD_ID + ":titanium", 38, new int[] {4, 8, 10, 4}, 3, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2.5f, 0.4f, () -> {
 		return Ingredient.fromItems(ItemInit.TITANIUM_INGOT.get());
 	}),
+	
+	ZINC(CArmoury.MOD_ID + ":zinc", 14, new int[] {2, 5, 5, 2}, 9, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0f, 0.0f, () -> {
+		return Ingredient.fromItems(ItemInit.ZINC_INGOT.get());
+	}),
+	
+	COBALT(CArmoury.MOD_ID + ":cobalt", 38, new int[] {4, 8, 10, 4}, 3, SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 2.5f, 0.4f, () -> {
+		return Ingredient.fromItems(ItemInit.COBALT_INGOT.get());
+	}),
+	
+	BRASS(CArmoury.MOD_ID + ":brass", 16, new int[] {2, 6, 6, 2}, 8, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0f, 0.0f, () -> {
+		return Ingredient.fromItems(ItemInit.BRASS_INGOT.get());
+	}),
+	
+	CHROMIUM(CArmoury.MOD_ID + ":chromium", 16, new int[] {2, 6, 6, 2}, 8, SoundEvents.ITEM_ARMOR_EQUIP_IRON, 0.0f, 0.0f, () -> {
+		return Ingredient.fromItems(ItemInit.CHROMIUM_INGOT.get());
+	}),
 	;
 	
 	private static int[] MAX_DAMAGE_ARRAY = new int[] {16, 16, 16, 16};

@@ -4,19 +4,19 @@ loaderVersion="[34,)" #mandatory This is typically bumped every Minecraft versio
 
 license="GNU General Public License v3.0"
 
-issueTrackerURL="https://github.com/congueror/CLib/issues" #optional
+issueTrackerURL="https://github.com/congueror/CArmoury/issues" #optional
 
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 
 modId="carmoury" #mandatory
 
-version="0.1" #mandatory
+version="0.1.0" #mandatory
 
 displayName="Conguerors Armoury" #mandatory
 
 # A URL to query for updates for this mod. See the JSON update specification <here>
-updateJSONURL="https://raw.githubusercontent.com/congueror/CLib/master/update.json" #optional
+updateJSONURL="https://raw.githubusercontent.com/congueror/CArmoury/master/update.json" #optional
 
 # A URL for the "homepage" for this mod, displayed in the mod UI
 displayURL="https://www.curseforge.com/minecraft/mc-mods/carmoury" #optional
@@ -49,12 +49,12 @@ Adds a bunch o' armour
 [[dependencies.carmoury]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.3]"
+    versionRange="[1.16.3,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.carmoury]]
     modId="clib"
     mandatory=true
-    versionRange="[1.2.2]"
+    versionRange="[1,)"
     ordering="BEFORE"
     side="BOTH"

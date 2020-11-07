@@ -185,6 +185,50 @@
 	"item.carmoury.titanium_chestplate": "Titanium Chestplate",
 	"item.carmoury.titanium_leggings": "Titanium Leggings",
 	"item.carmoury.titanium_boots": "Titanium Boots",
+	
+	"item.carmoury.zinc_sword": "Zinc Sword",
+	"item.carmoury.zinc_pickaxe": "Zinc Pickaxe",
+	"item.carmoury.zinc_axe": "Zinc Axe",
+	"item.carmoury.zinc_shovel": "Zinc Shovel",
+	"item.carmoury.zinc_hoe": "Zinc Hoe",
+	
+	"item.carmoury.zinc_helmet": "Zinc Helmet",
+	"item.carmoury.zinc_chestplate": "Zinc Chestplate",
+	"item.carmoury.zinc_leggings": "Zinc Leggings",
+	"item.carmoury.zinc_boots": "Zinc Boots",
+	
+	"item.carmoury.cobalt_sword": "Cobalt Sword",
+	"item.carmoury.cobalt_pickaxe": "Cobalt Pickaxe",
+	"item.carmoury.cobalt_axe": "Cobalt Axe",
+	"item.carmoury.cobalt_shovel": "Cobalt Shovel",
+	"item.carmoury.cobalt_hoe": "Cobalt Hoe",
+	
+	"item.carmoury.cobalt_helmet": "Cobalt Helmet",
+	"item.carmoury.cobalt_chestplate": "Cobalt Chestplate",
+	"item.carmoury.cobalt_leggings": "Cobalt Leggings",
+	"item.carmoury.cobalt_boots": "Cobalt Boots",
+	
+	"item.carmoury.brass_sword": "Brass Sword",
+	"item.carmoury.brass_pickaxe": "Brass Pickaxe",
+	"item.carmoury.brass_axe": "Brass Axe",
+	"item.carmoury.brass_shovel": "Brass Shovel",
+	"item.carmoury.brass_hoe": "Brass Hoe",
+	
+	"item.carmoury.brass_helmet": "Brass Helmet",
+	"item.carmoury.brass_chestplate": "Brass Chestplate",
+	"item.carmoury.brass_leggings": "Brass Leggings",
+	"item.carmoury.brass_boots": "Brass Boots",
+	
+	"item.carmoury.chromium_sword": "Chromium Sword",
+	"item.carmoury.chromium_pickaxe": "Chromium Pickaxe",
+	"item.carmoury.chromium_axe": "Chromium Axe",
+	"item.carmoury.chromium_shovel": "Chromium Shovel",
+	"item.carmoury.chromium_hoe": "Chromium Hoe",
+	
+	"item.carmoury.chromium_helmet": "Chromium Helmet",
+	"item.carmoury.chromium_chestplate": "Chromium Chestplate",
+	"item.carmoury.chromium_leggings": "Chromium Leggings",
+	"item.carmoury.chromium_boots": "Chromium Boots",
 
 	"itemGroup.carmourytab": "C's Armoury"
 }

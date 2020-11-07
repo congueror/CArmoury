@@ -293,4 +293,68 @@ public class ItemInit
 		new ArmorItem(ModArmorMaterial.TITANIUM, EquipmentSlotType.LEGS, new Item.Properties().group(CArmouryItemGroup.instance)));
 	public static final RegistryObject<Item> TITANIUM_BOOTS = ITEMS.register("titanium_boots", ()-> 
 		new ArmorItem(ModArmorMaterial.TITANIUM, EquipmentSlotType.FEET, new Item.Properties().group(CArmouryItemGroup.instance)));
+	
+	//Zinc
+	public static final RegistryObject<Item> ZINC_SWORD = ITEMS.register("zinc_sword", ()-> new SwordItem(ModItemTier.ZINC, 4, -2.4f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_PICKAXE = ITEMS.register("zinc_pickaxe", ()-> new PickaxeItem(ModItemTier.ZINC, 2, -2.8f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_AXE = ITEMS.register("zinc_axe", ()-> new AxeItem(ModItemTier.ZINC, 7.0f, -3.2f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_SHOVEL = ITEMS.register("zinc_shovel", ()-> new ShovelItem(ModItemTier.ZINC, 2.5f, -3f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_HOE = ITEMS.register("zinc_hoe", ()-> new HoeItem(ModItemTier.ZINC, 0, 0, new Item.Properties().group(CArmouryItemGroup.instance)));
+		
+	public static final RegistryObject<Item> ZINC_HELMET = ITEMS.register("zinc_helmet", ()-> 
+		new ArmorItem(ModArmorMaterial.ZINC, EquipmentSlotType.HEAD, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_CHESTPLATE = ITEMS.register("zinc_chestplate", ()-> 
+		new ArmorItem(ModArmorMaterial.ZINC, EquipmentSlotType.CHEST, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_LEGGINGS = ITEMS.register("zinc_leggings", ()-> 
+		new ArmorItem(ModArmorMaterial.ZINC, EquipmentSlotType.LEGS, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> ZINC_BOOTS = ITEMS.register("zinc_boots", ()-> 
+		new ArmorItem(ModArmorMaterial.ZINC, EquipmentSlotType.FEET, new Item.Properties().group(CArmouryItemGroup.instance)));
+	
+	//Cobalt
+	public static final RegistryObject<Item> COBALT_SWORD = ITEMS.register("cobalt_sword", ()-> new SwordItem(ModItemTier.COBALT, 8, -2.4f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_PICKAXE = ITEMS.register("cobalt_pickaxe", ()-> new PickaxeItem(ModItemTier.COBALT, 2, -2.8f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_AXE = ITEMS.register("cobalt_axe", ()-> new AxeItem(ModItemTier.COBALT, 11.0f, -3.2f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_SHOVEL = ITEMS.register("cobalt_shovel", ()-> new ShovelItem(ModItemTier.COBALT, 6.5f, -3f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_HOE = ITEMS.register("cobalt_hoe", ()-> new HoeItem(ModItemTier.COBALT, 0, 0, new Item.Properties().group(CArmouryItemGroup.instance)));
+		
+	public static final RegistryObject<Item> COBALT_HELMET = ITEMS.register("cobalt_helmet", ()-> 
+		new ArmorItem(ModArmorMaterial.COBALT, EquipmentSlotType.HEAD, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_CHESTPLATE = ITEMS.register("cobalt_chestplate", ()-> 
+		new ArmorItem(ModArmorMaterial.COBALT, EquipmentSlotType.CHEST, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_LEGGINGS = ITEMS.register("cobalt_leggings", ()-> 
+		new ArmorItem(ModArmorMaterial.COBALT, EquipmentSlotType.LEGS, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> COBALT_BOOTS = ITEMS.register("cobalt_boots", ()-> 
+		new ArmorItem(ModArmorMaterial.COBALT, EquipmentSlotType.FEET, new Item.Properties().group(CArmouryItemGroup.instance)));
+	
+	//Brass
+	public static final RegistryObject<Item> BRASS_SWORD = ITEMS.register("brass_sword", ()-> new SwordItem(ModItemTier.BRASS, 6, -2.4f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_PICKAXE = ITEMS.register("brass_pickaxe", ()-> new PickaxeItem(ModItemTier.BRASS, 0, -2.8f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_AXE = ITEMS.register("brass_axe", ()-> new AxeItem(ModItemTier.BRASS, 9.0f, -3.2f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_SHOVEL = ITEMS.register("brass_shovel", ()-> new ShovelItem(ModItemTier.BRASS, 4.5f, -3f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_HOE = ITEMS.register("brass_hoe", ()-> new HoeItem(ModItemTier.BRASS, 0, 0, new Item.Properties().group(CArmouryItemGroup.instance)));
+		
+	public static final RegistryObject<Item> BRASS_HELMET = ITEMS.register("brass_helmet", ()-> 
+		new ArmorItem(ModArmorMaterial.BRASS, EquipmentSlotType.HEAD, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_CHESTPLATE = ITEMS.register("brass_chestplate", ()-> 
+		new ArmorItem(ModArmorMaterial.BRASS, EquipmentSlotType.CHEST, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_LEGGINGS = ITEMS.register("brass_leggings", ()-> 
+		new ArmorItem(ModArmorMaterial.BRASS, EquipmentSlotType.LEGS, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> BRASS_BOOTS = ITEMS.register("brass_boots", ()-> 
+		new ArmorItem(ModArmorMaterial.BRASS, EquipmentSlotType.FEET, new Item.Properties().group(CArmouryItemGroup.instance)));
+	
+	//Chromium
+	public static final RegistryObject<Item> CHROMIUM_SWORD = ITEMS.register("chromium_sword", ()-> new SwordItem(ModItemTier.CHROMIUM, 6, -2.4f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_PICKAXE = ITEMS.register("chromium_pickaxe", ()-> new PickaxeItem(ModItemTier.CHROMIUM, 0, -2.8f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_AXE = ITEMS.register("chromium_axe", ()-> new AxeItem(ModItemTier.CHROMIUM, 9.0f, -3.2f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_SHOVEL = ITEMS.register("chromium_shovel", ()-> new ShovelItem(ModItemTier.CHROMIUM, 4.5f, -3f, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_HOE = ITEMS.register("chromium_hoe", ()-> new HoeItem(ModItemTier.CHROMIUM, 0, 0, new Item.Properties().group(CArmouryItemGroup.instance)));
+		
+	public static final RegistryObject<Item> CHROMIUM_HELMET = ITEMS.register("chromium_helmet", ()-> 
+		new ArmorItem(ModArmorMaterial.CHROMIUM, EquipmentSlotType.HEAD, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_CHESTPLATE = ITEMS.register("chromium_chestplate", ()-> 
+		new ArmorItem(ModArmorMaterial.CHROMIUM, EquipmentSlotType.CHEST, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_LEGGINGS = ITEMS.register("chromium_leggings", ()-> 
+		new ArmorItem(ModArmorMaterial.CHROMIUM, EquipmentSlotType.LEGS, new Item.Properties().group(CArmouryItemGroup.instance)));
+	public static final RegistryObject<Item> CHROMIUM_BOOTS = ITEMS.register("chromium_boots", ()-> 
+		new ArmorItem(ModArmorMaterial.CHROMIUM, EquipmentSlotType.FEET, new Item.Properties().group(CArmouryItemGroup.instance)));
 }

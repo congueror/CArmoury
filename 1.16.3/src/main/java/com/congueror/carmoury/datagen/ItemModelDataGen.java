@@ -493,5 +493,117 @@ public class ItemModelDataGen extends ItemModelProvider
 		
 		singleTexture(ItemInit.TITANIUM_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
                 "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/titanium_boots"));
+		
+		//Zinc
+		singleTexture(ItemInit.ZINC_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_sword"));
+		
+		singleTexture(ItemInit.ZINC_PICKAXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_pickaxe"));
+		
+		singleTexture(ItemInit.ZINC_AXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_axe"));
+		
+		singleTexture(ItemInit.ZINC_SHOVEL.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_shovel"));
+		
+		singleTexture(ItemInit.ZINC_HOE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_hoe"));
+		
+		singleTexture(ItemInit.ZINC_HELMET.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_helmet"));
+		
+		singleTexture(ItemInit.ZINC_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_chestplate"));
+		
+		singleTexture(ItemInit.ZINC_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_leggings"));
+		
+		singleTexture(ItemInit.ZINC_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/zinc_boots"));
+		
+		//Cobalt
+		singleTexture(ItemInit.COBALT_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_sword"));
+		
+		singleTexture(ItemInit.COBALT_PICKAXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_pickaxe"));
+		
+		singleTexture(ItemInit.COBALT_AXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_axe"));
+		
+		singleTexture(ItemInit.COBALT_SHOVEL.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_shovel"));
+		
+		singleTexture(ItemInit.COBALT_HOE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_hoe"));
+		
+		singleTexture(ItemInit.COBALT_HELMET.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_helmet"));
+		
+		singleTexture(ItemInit.COBALT_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_chestplate"));
+		
+		singleTexture(ItemInit.COBALT_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_leggings"));
+		
+		singleTexture(ItemInit.COBALT_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/cobalt_boots"));
+		
+		//Brass
+		singleTexture(ItemInit.BRASS_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_sword"));
+		
+		singleTexture(ItemInit.BRASS_PICKAXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_pickaxe"));
+		
+		singleTexture(ItemInit.BRASS_AXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_axe"));
+		
+		singleTexture(ItemInit.BRASS_SHOVEL.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_shovel"));
+		
+		singleTexture(ItemInit.BRASS_HOE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_hoe"));
+		
+		singleTexture(ItemInit.BRASS_HELMET.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_helmet"));
+		
+		singleTexture(ItemInit.BRASS_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_chestplate"));
+		
+		singleTexture(ItemInit.BRASS_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_leggings"));
+		
+		singleTexture(ItemInit.BRASS_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/brass_boots"));
+		
+		//Chromium
+		singleTexture(ItemInit.CHROMIUM_SWORD.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_sword"));
+		
+		singleTexture(ItemInit.CHROMIUM_PICKAXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_pickaxe"));
+		
+		singleTexture(ItemInit.CHROMIUM_AXE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_axe"));
+		
+		singleTexture(ItemInit.CHROMIUM_SHOVEL.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_shovel"));
+		
+		singleTexture(ItemInit.CHROMIUM_HOE.get().getRegistryName().getPath(), new ResourceLocation("item/handheld"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_hoe"));
+		
+		singleTexture(ItemInit.CHROMIUM_HELMET.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_helmet"));
+		
+		singleTexture(ItemInit.CHROMIUM_CHESTPLATE.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_chestplate"));
+		
+		singleTexture(ItemInit.CHROMIUM_LEGGINGS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_leggings"));
+		
+		singleTexture(ItemInit.CHROMIUM_BOOTS.get().getRegistryName().getPath(), new ResourceLocation("item/generated"),
+                "layer0", new ResourceLocation(CArmoury.MOD_ID, "items/chromium_boots"));
 	}
 }

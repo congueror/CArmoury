@@ -83,6 +83,22 @@ public enum ModItemTier implements IItemTier
 	TITANIUM(3, 1999, 8.5f, 0.0f, 3, () -> {
 		return Ingredient.fromItems(ItemInit.TITANIUM_INGOT.get());
 	}),
+	
+	ZINC(2, 238, 6.0f, 0.0f, 12, () -> {
+		return Ingredient.fromItems(ItemInit.ZINC_INGOT.get());
+	}),
+	
+	COBALT(3, 2016, 8.5f, 0.0f, 3, () -> {
+		return Ingredient.fromItems(ItemInit.COBALT_INGOT.get());
+	}),
+	
+	BRASS(2, 369, 6.0f, 0.0f, 11, () -> {
+		return Ingredient.fromItems(ItemInit.BRASS_INGOT.get());
+	}),
+	
+	CHROMIUM(3, 298, 6.2f, 0.0f, 12, () -> {
+		return Ingredient.fromItems(ItemInit.CHROMIUM_INGOT.get());
+	}),
 	;
 	
 	private final int harvestLevel;

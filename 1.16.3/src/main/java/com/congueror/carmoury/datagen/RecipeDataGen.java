@@ -1346,5 +1346,317 @@ public class RecipeDataGen extends RecipeProvider
         .key('a', ModTags.Items.INGOTS_TITANIUM)
         .addCriterion("titanium_ingot", hasItem(ModTags.Items.INGOTS_TITANIUM))
         .build(recipe);
+		
+		//Zinc
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_SWORD.get(), 1)
+        .patternLine("a")
+        .patternLine("a")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .key('s', Items.STICK)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_PICKAXE.get(), 1)
+        .patternLine("aaa")
+        .patternLine(" s ")
+        .patternLine(" s ")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .key('s', Items.STICK)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_AXE.get(), 1)
+        .patternLine("aa")
+        .patternLine("as")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .key('s', Items.STICK)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_SHOVEL.get(), 1)
+        .patternLine("a")
+        .patternLine("s")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .key('s', Items.STICK)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_HOE.get(), 1)
+        .patternLine("aa")
+        .patternLine(" s")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .key('s', Items.STICK)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_HELMET.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_CHESTPLATE.get(), 1)
+        .patternLine("a a")
+        .patternLine("aaa")
+        .patternLine("aaa")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_LEGGINGS.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("a a")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.ZINC_BOOTS.get(), 1)
+        .patternLine("a a")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_ZINC)
+        .addCriterion("zinc_ingot", hasItem(ModTags.Items.INGOTS_ZINC))
+        .build(recipe);
+		
+		//Cobalt
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_SWORD.get(), 1)
+        .patternLine("a")
+        .patternLine("a")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .key('s', Items.STICK)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_PICKAXE.get(), 1)
+        .patternLine("aaa")
+        .patternLine(" s ")
+        .patternLine(" s ")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .key('s', Items.STICK)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_AXE.get(), 1)
+        .patternLine("aa")
+        .patternLine("as")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .key('s', Items.STICK)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_SHOVEL.get(), 1)
+        .patternLine("a")
+        .patternLine("s")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .key('s', Items.STICK)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_HOE.get(), 1)
+        .patternLine("aa")
+        .patternLine(" s")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .key('s', Items.STICK)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_HELMET.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_CHESTPLATE.get(), 1)
+        .patternLine("a a")
+        .patternLine("aaa")
+        .patternLine("aaa")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_LEGGINGS.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("a a")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.COBALT_BOOTS.get(), 1)
+        .patternLine("a a")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_COBALT)
+        .addCriterion("cobalt_ingot", hasItem(ModTags.Items.INGOTS_COBALT))
+        .build(recipe);
+		
+		//Brass
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_SWORD.get(), 1)
+        .patternLine("a")
+        .patternLine("a")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .key('s', Items.STICK)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_PICKAXE.get(), 1)
+        .patternLine("aaa")
+        .patternLine(" s ")
+        .patternLine(" s ")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .key('s', Items.STICK)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_AXE.get(), 1)
+        .patternLine("aa")
+        .patternLine("as")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .key('s', Items.STICK)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_SHOVEL.get(), 1)
+        .patternLine("a")
+        .patternLine("s")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .key('s', Items.STICK)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_HOE.get(), 1)
+        .patternLine("aa")
+        .patternLine(" s")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .key('s', Items.STICK)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_HELMET.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_CHESTPLATE.get(), 1)
+        .patternLine("a a")
+        .patternLine("aaa")
+        .patternLine("aaa")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_LEGGINGS.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("a a")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.BRASS_BOOTS.get(), 1)
+        .patternLine("a a")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_BRASS)
+        .addCriterion("brass_ingot", hasItem(ModTags.Items.INGOTS_BRASS))
+        .build(recipe);
+		
+		//Chromium
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_SWORD.get(), 1)
+        .patternLine("a")
+        .patternLine("a")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .key('s', Items.STICK)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_PICKAXE.get(), 1)
+        .patternLine("aaa")
+        .patternLine(" s ")
+        .patternLine(" s ")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .key('s', Items.STICK)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_AXE.get(), 1)
+        .patternLine("aa")
+        .patternLine("as")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .key('s', Items.STICK)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_SHOVEL.get(), 1)
+        .patternLine("a")
+        .patternLine("s")
+        .patternLine("s")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .key('s', Items.STICK)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_HOE.get(), 1)
+        .patternLine("aa")
+        .patternLine(" s")
+        .patternLine(" s")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .key('s', Items.STICK)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_HELMET.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_CHESTPLATE.get(), 1)
+        .patternLine("a a")
+        .patternLine("aaa")
+        .patternLine("aaa")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_LEGGINGS.get(), 1)
+        .patternLine("aaa")
+        .patternLine("a a")
+        .patternLine("a a")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
+		
+		ShapedRecipeBuilder.shapedRecipe(ItemInit.CHROMIUM_BOOTS.get(), 1)
+        .patternLine("a a")
+        .patternLine("a a")
+        .patternLine("   ")
+        .key('a', ModTags.Items.INGOTS_CHROMIUM)
+        .addCriterion("chromium_ingot", hasItem(ModTags.Items.INGOTS_CHROMIUM))
+        .build(recipe);
 	}
 }
